@@ -1,0 +1,3 @@
+[submodule "hybrid-hs-vrp"]
+	path = hybrid-hs-vrp
+	url = https://github.com/20215269-ducdvm/hybrid-hs-vrp.git
